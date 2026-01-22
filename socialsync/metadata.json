@@ -1,0 +1,8 @@
+{
+  "name": "SocialSync",
+  "description": "A premium location-based social meetup app. Host paid events, join verified gatherings, and connect safely. Subscription-based access ensures quality interactions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
